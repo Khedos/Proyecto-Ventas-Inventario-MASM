@@ -1,0 +1,5 @@
+*.asm text working-tree-encoding=CP1252 eol=crlf
+*.csv text eol=crlf
+*.sln text eol=crlf
+*.vcxproj* text eol=crlf
+*.pdf binary
